@@ -1,4 +1,8 @@
-# Privacy Policy for Pokedex: Origin Stories
+---
+permalink: /pokedex-privacy-policy/
+title: "Privacy Policy for Pokedex: Origin Stories"
+author_profile: false
+---
 
 **Effective Date:** 28/10/2023
 
